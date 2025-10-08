@@ -1,3 +1,2 @@
 # literate-spoon
-repository for machine learning projects.
-
+repository for various machine learning model projects.
